@@ -1,4 +1,4 @@
-## Template zum Bauen eines Python Projktes
+## Template zum Bauen eines Python Projektes
 
 # Zur Struktur eines ML-Projektes
 - https://towardsdatascience.com/structuring-machine-learning-projects-be473775a1b6
